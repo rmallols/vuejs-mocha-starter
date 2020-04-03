@@ -8,7 +8,7 @@
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
-    "test": "mochapack --webpack-config webpack.config.js --require test/setup.js test/**/*.spec.js"
+    "test": "mochapack --webpack-config webpack.config.js --require test/setup.js test/**/*.spec.js --watch"
   },
   "dependencies": {
     "mocha-webpack": "^1.1.0",
