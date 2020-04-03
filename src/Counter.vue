@@ -1,6 +1,6 @@
 <template>
   <div>
-    {{ count }}
+    <label>{{ count }}</label>
     <button @click="increment">Increment</button>
   </div>
 </template>
