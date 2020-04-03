@@ -1,3 +1,4 @@
+import { expect } from 'chai';
 import Vue from 'vue';
 import { shallowMount } from '@vue/test-utils';
 import Counter from '../src/Counter.vue';
