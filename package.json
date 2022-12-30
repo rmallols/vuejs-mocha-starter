@@ -9,11 +9,11 @@
     "test": "vue-cli-service test:unit test/**/*.spec.js --watch --reporter=json"
   },
   "dependencies": {
-    "@vue/cli-plugin-unit-mocha": "^4.2.3",
+    "@vue/cli-plugin-unit-mocha": "^5.0.8",
     "@vue/cli-service": "^4.2.3",
     "@vue/test-utils": "^1.0.0-beta.32",
     "chai": "^4.2.0",
-    "mocha": "^7.1.1",
+    "mocha": "^10.2.0",
     "sinon": "^9.0.1",
     "sinon-chai": "^3.5.0",
     "vue": "^2.5.11",
