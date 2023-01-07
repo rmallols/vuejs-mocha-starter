@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@vue/cli-plugin-unit-mocha": "^4.2.3",
-    "@vue/cli-service": "^4.2.3",
+    "@vue/cli-service": "^5.0.8",
     "@vue/test-utils": "^1.0.0-beta.32",
     "chai": "^4.2.0",
     "mocha": "^7.1.1",
